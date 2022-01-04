@@ -16,7 +16,7 @@ void swap(int &a, int &b){
 }
 
 int main(){
-    int a = 22, b = 33;
+    int a = 100, b = 200;
     
     cout << "Before swap:" << endl;
     cout << "a = " << a << endl;
