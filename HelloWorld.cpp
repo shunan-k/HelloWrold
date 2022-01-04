@@ -7,10 +7,16 @@ void swap(int &a, int &b){
     temp = a;
     a = b;
     b = temp;
+    // lllll
+    // 22222
+    // 33333
+    // 44444
+    // 55555
+    // 66666
 }
 
 int main(){
-    int a = 10, b = 20;
+    int a = 22, b = 33;
     
     cout << "Before swap:" << endl;
     cout << "a = " << a << endl;
